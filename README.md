@@ -9,9 +9,9 @@ The API is designed around the CoinMarketCap
 Prefer the Uniswap subgraph for any Uniswap queries whenever possible. The respective subgraphs will always have more
 recent data.
 
-V2 Subgraph: https://github.com/Uniswap/uniswap-v2-subgraph
+V2 Subgraph: https://github.com/KsorK0505/uniswap-v2-token
 
-V1 Subgraph: https://github.com/graphprotocol/uniswap-subgraph
+V1 Subgraph: https://github.com/KsorK0505/uniswap-token
 
 ## Getting an API Key
 
